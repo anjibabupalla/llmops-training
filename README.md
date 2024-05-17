@@ -1,1 +1,1 @@
-# llmops-training
+# llmops-fractal-training

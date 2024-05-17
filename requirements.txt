@@ -1,0 +1,6 @@
+pinecone-client
+langchain-openai
+langchain-pinecone
+langchain
+langchain-community
+numexpr
